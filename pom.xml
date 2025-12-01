@@ -330,3 +330,4 @@ Paste in browser → Your website appears 🎉
 ->Stopping 
 sudo docker ps -> gives container id 
 sudo docker stop <container id>
+
